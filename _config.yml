@@ -20,9 +20,8 @@
 
 title: Paul's Tech Blog
 email: pngen93@gmail.com
+description: A developer's thoughts on current technology trends and terrible hiring practices.
 name: Paul Ngen
-headline: Full Stack Web Developer
-description: My latest stories and posts.
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pngen
