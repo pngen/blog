@@ -20,7 +20,7 @@
 
 title: Paul's Tech Blog
 email: pngen93@gmail.com
-description: A developer's thoughts on current technology trends and terrible hiring practices.
+description: A developer's thoughts on current trends in tech.
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,6 +30,7 @@ github_username: pngen
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
