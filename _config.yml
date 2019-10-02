@@ -24,10 +24,10 @@ description: A developer's thoughts on current trends in tech.
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-github_username: pngen
+permalink: /:year/:month/:day/:title/index.html
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
