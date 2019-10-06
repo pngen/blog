@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paul's Tech Blog
+title: root_dragon_punch
 email: pngen93@gmail.com
-description: A developer's thoughts on current trends in tech.
+description: A self-taught programmer's bits on tech.
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
