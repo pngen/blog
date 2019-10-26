@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: root_dragon_punch
+title: the-1x-engineer
 email: pngen93@gmail.com
-description: A self-taught programmer's bits on tech.
+description: A self-taught programmer's bits on tech. /s
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/index.html
-
-# Build settings
+encoding: utf-8
+sass:
+  sass_dir: _sass
+  # Build settings
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
