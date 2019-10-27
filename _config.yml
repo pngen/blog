@@ -20,8 +20,7 @@
 
 title: the-1x-engineer
 email: pngen93@gmail.com
-description: A self-taught programmer's bits on tech. /s
-name: Paul Ngen
+description: A self-taught programmer's bits on tech.
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/index.html
