@@ -4,7 +4,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:1 %}
 
   <article>
     <h2>
