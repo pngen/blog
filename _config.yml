@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ./root_dragon_punch
+title: root_dragon_punch
 email: pngen93@gmail.com
 description: 
 name: Paul Ngen
