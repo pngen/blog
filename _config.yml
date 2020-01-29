@@ -20,7 +20,7 @@
 
 title: root_dragon_punch
 email: pngen93@gmail.com
-description: A personal progress journal on DIY hacking.
+description: A personal journal documenting my progress in DIY hacking.
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
