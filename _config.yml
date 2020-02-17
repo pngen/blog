@@ -20,7 +20,7 @@
 
 title: root_dragon_punch
 email: pngen93@gmail.com
-description: A progress journal for hacking, programming, and cybersecurity topics.
+description: A progress journal for learning programming, hacking, and cybersecurity.
 name: Paul Ngen
 baseurl: '/blog' # the subpath of your site, e.g. /blog
 url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
