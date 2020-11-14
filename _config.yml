@@ -20,10 +20,10 @@
 
 title: root_dragon_punch
 email: pngen93@gmail.com
-description: A progress journal on DIY hacking.
+description: A quotations-only minimalist blog.
 name: Paul Ngen
-baseurl: '/blog' # the subpath of your site, e.g. /blog
-url: 'https://pngen.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://pngen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/index.html
 encoding: utf-8
 sass:
